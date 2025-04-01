@@ -1,5 +1,5 @@
 ## Google Earth Engine Fall vs Summer Vegetation
-This project compares vegetation classifications with and without the addition of fall images. I explain where there may be confusions and how they can be corrected.
+This project compares vegetation classifications with and without the addition of a fall satellite image. I explain where there may be confusions and how they can be corrected.
 
 ## Potential Confusions
 
